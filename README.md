@@ -9,7 +9,7 @@
  
 Sus manos.
 
-Sirva la presente para presentar mi renuncia formal y voluntaria del cargo de Consultor y desarrollador, el cual he ejercido desde el **DD de MM de YYYY**hasta la fecha, apegándome al código del trabajo doy aviso de que cumpliré mi periodo de pre-aviso el cual culmina el día **DD de MM de YYYY**.
+Sirva la presente para presentar mi renuncia formal y voluntaria del cargo de Consultor y desarrollador, el cual he ejercido desde el **DD de MM de YYYY** hasta la fecha, apegándome al código del trabajo doy aviso de que cumpliré mi periodo de pre-aviso el cual culmina el día **DD de MM de YYYY**.
 
 Agradeciendo en gran manera la oportunidad que me fue brindada y sin más a que referirme, me despido.
 
